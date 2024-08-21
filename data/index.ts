@@ -86,7 +86,7 @@ export const projects = [
   {
     id: 4,
     title: "Horizon-Fintech Application",
-    des: "Redefining the bnking and financial applications in the NEXT level..",
+    des: "Redefining the banking and financial applications in the NEXT level..",
     img: "/horizon-1.jpg",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", ],
     link: "https://github.com/sasbaws221/myBankApp.git",
